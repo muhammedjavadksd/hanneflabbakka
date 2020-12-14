@@ -2629,10 +2629,11 @@
     line-height: 60px;
     text-transform: capitalize; }
   .w3l-hero-headers-9 .banner-text p {
-    font-size: 17px;
-    line-height: 28px;
-    max-width: 700px;
+    font-size: 83px;
+    line-height: 50px;
+    max-width: -24px;
     margin: 30px 0px 25px;
+    padding-left: 20px;
     color: #dcdcdc; }
   .w3l-hero-headers-9 .css-slider {
     width: 100%;
@@ -3121,6 +3122,11 @@
   list-style: inside;
   font-weight: 400;
   list-style-type: none; }
+
+  #share{
+    width:85px;
+    height:102px;
+  }
 
 .w3l-specification-6 ul.w3l-right-book li span {
   font-size: 12px;
@@ -4410,7 +4416,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #5f85aa;
   text-align: left;
   background-color: #fff; }
 
